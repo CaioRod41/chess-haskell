@@ -29,5 +29,3 @@ Interatividade: Projetar uma interface de usuário que seja amigável e forneça
 Eficiência: Buscar otimizações e eficiência no código, garantindo um desempenho adequado, especialmente ao lidar com jogos mais complexos.
 
 
-Link da apresentação: https://youtu.be/80ZaF899xr4
-
